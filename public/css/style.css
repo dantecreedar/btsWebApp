@@ -1,7 +1,16 @@
 li{
     list-style: none;
+    cursor: pointer;
 }
 
-main{
-    height: 50vh;
+/* main{
+    height: 100vh;
+} */
+
+#imgPri{
+    width: 200%;
+}
+
+#imgInt{
+    width: 100px;
 }
